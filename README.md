@@ -1,6 +1,10 @@
 # 💫 About Me:
 💫 Hi 👋, I'm Srinivas Surisetti<br><br>🚀 Aspiring Full-Stack Developer | Data Analyst | Cloud Enthusiast<br>📍 Visakhapatnam, India<br>✉️ srinivassurisetti14@gmail.com<br><br>👨‍💻 About Me<br><br>🔭 Currently working on: Full-Stack projects (MERN, Spring MVC) & Data Analytics solutions<br><br>🌱 Currently learning: Advanced Cloud & DevOps, Machine Learning for Analytics<br><br>👯 Looking to collaborate on: Open-source MERN Stack projects, Data Analysis dashboards<br><br>💬 Ask me about: Java, Python, Full-Stack Development, Data Analysis, Automation<br><br>⚡ Fun fact: I’ve solved 500+ coding challenges & love mentoring juniors in hackathons
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Java+Full+Stack+Developer;MERN+Stack+Developer;Data+Analyst+%7C+ML+Enthusiast;Always+learning+new+tech!+%F0%9F%92%BB" />
+</p>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/cgyHN7nU) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/srinvasu.surisetti) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/srinivas.surisetti/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/srinivas-surisetti-3083a5250/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/31066916/srinivas-sri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/sri_n_vasu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srinivassurisetti14@gmail.com) 
