@@ -27,10 +27,33 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SrinivasSurisetti&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SrinivasSurisetti&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
+
+## 📂 Highlighted Projects
+
+### 📝 Resume Builder (MERN)
+- Full-stack resume generator with real-time preview  
+- Developed REST APIs and optimized database schemas  
+- [GitHub Repo](https://github.com/SrinivasSurisetti/Resume-Builder)
+
+### 🏏 T20 Cricket Data Analytics
+- Processed 5,000+ match records from ESPN APIs using Python  
+- Built ML models to improve prediction accuracy by 18%  
+- Designed interactive Power BI dashboards with 12+ KPIs  
+- [GitHub Repo](https://github.com/SrinivasSurisetti/T20CricketDataAnalytics)
+
+### 📧 Email Automation (Selenium)
+- Automated Gmail workflows for 50+ accounts  
+- Reduced manual effort by 40% with Python + Selenium  
+- [GitHub Repo](https://github.com/SrinivasSurisetti/Python-Automation)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SrinivasSurisetti&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 📜 Certifications
+
+- 🛡️ Red Hat Certified System Administrator (RHCSA)  
+- 💻 Certiport – HTML, CSS, Python, Java  
+- 🌐 Cisco Networking Academy – C, C++, Python  
+- 🎓 edX – Prompt Engineering & Advanced ChatGPT  
+- 📊 Credly – Verified Digital Badges  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
