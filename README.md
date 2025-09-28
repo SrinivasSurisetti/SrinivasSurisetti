@@ -55,5 +55,5 @@
 - 💻 Certiport – HTML, CSS, Python, Java  
 - 🌐 Cisco Networking Academy – C, C++, Python  
 - 🎓 edX – Prompt Engineering & Advanced ChatGPT  
-- 📊 Credly – Verified Digital Badges  
+- 📊 Credly – [Verified Digital Badges](https://www.credly.com/users/srinivas-surisetti/) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
