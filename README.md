@@ -47,6 +47,12 @@
 - Reduced manual effort by 40% with Python + Selenium  
 - [GitHub Repo](https://github.com/SrinivasSurisetti/Python-Automation)
 
+### 🛒 Smart Retail Promotions Hub
+- A digital ecosystem for smarter retail engagement  
+- Built using modern web stack & deployed on **Vercel**  
+- [Live Demo](https://smart-retail-promotions-hub.vercel.app/)  
+- [GitHub Repo](https://github.com/YourGitHubRepoLink)
+
 ---
 
 ## 📜 Certifications
